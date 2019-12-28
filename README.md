@@ -1,4 +1,4 @@
-# Awesome Engineering Whitepapers
+# Awesome Engineering White Papers
 Awesome list of engineering whitepapers
 
 ## Systems
