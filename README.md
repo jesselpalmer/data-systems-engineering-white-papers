@@ -12,6 +12,8 @@ Hadoop](https://people.cs.kuleuven.be/~bettina.berendt/teaching/2010-11-2ndsemes
 Storage for Interactive Services](https://pdos.csail.mit.edu/archive/6.824-2012/papers/jbaker-megastore.pdf)  
 
 ## Systems
+[The Anatomy of a Large-Scale Hypertextual
+Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)  
 [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)  
 [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)  
 
