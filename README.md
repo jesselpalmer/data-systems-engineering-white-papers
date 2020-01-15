@@ -16,6 +16,7 @@ Storage for Interactive Services](https://pdos.csail.mit.edu/archive/6.824-2012/
 Web Search Engine](http://ilpubs.stanford.edu:8090/361/1/1998-8.pdf)  
 [The Chubby lock service for loosely-coupled distributed systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)  
 [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)  
+[Websearch for a Planet: The Google Cluster Architecture](http://www.eecs.harvard.edu/~dbrooks/cs246-fall2004/google.pdf)   
 
 ## Languages
 [Elm: Concurrent FRP for Functional GUIs](https://elm-lang.org/assets/papers/concurrent-frp.pdf)  
