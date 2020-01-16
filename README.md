@@ -2,6 +2,7 @@
 An Awesome List of Engineering White Papers  
 
 ## Data
+[Cassandra - A Decentralized Structured Storage System](http://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)  
 [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)  
 [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)  
 [Hive – A Petabyte Scale Data Warehouse Using
