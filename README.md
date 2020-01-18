@@ -11,6 +11,7 @@ Hadoop](https://people.cs.kuleuven.be/~bettina.berendt/teaching/2010-11-2ndsemes
 [MapReduce: Simplified Data Processing on Large Clusters](https://static.usenix.org/event/osdi04/tech/full_papers/dean/dean.pdf)  
 [Megastore: Providing Scalable, Highly Available
 Storage for Interactive Services](https://pdos.csail.mit.edu/archive/6.824-2012/papers/jbaker-megastore.pdf)  
+[Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf&sa=U&ei=gWJjU97pOeqxsQSDkYDAAg&ved=0CBsQFjAA&usg=AFQjCNGMeuWne9ywncbgux_XiZW6lQWHNw)  
 
 ## Systems
 [The Anatomy of a Large-Scale Hypertextual
