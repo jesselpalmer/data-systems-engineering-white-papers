@@ -25,3 +25,4 @@ Storage for Interactive Services](https://pdos.csail.mit.edu/archive/6.824-2012/
 
 ## Languages
 [Elm: Concurrent FRP for Functional GUIs](https://elm-lang.org/assets/papers/concurrent-frp.pdf)  
+[Regularized Programming with the BOSQUE Language](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/beyond_structured_report_v2.pdf)   
