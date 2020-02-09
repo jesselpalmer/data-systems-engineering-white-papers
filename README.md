@@ -22,6 +22,7 @@ Storage for Interactive Services](https://pdos.csail.mit.edu/archive/6.824-2012/
 [Unicorn: A System for Searching the Social Graph](https://db.disi.unitn.eu//pages/VLDBProgram/pdf/industry/p871-curtiss.pdf)  
 [Websearch for a Planet: The Google Cluster Architecture](http://www.eecs.harvard.edu/~dbrooks/cs246-fall2004/google.pdf)   
 [ZooKeeper: Wait-free coordination for Internet-scale systems](usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)  
+[Thrift: Scalable Cross-Language Services Implementation](http://thrift.apache.org/static/files/thrift-20070401.pdf)  
 
 ## Languages
 [Elm: Concurrent FRP for Functional GUIs](https://elm-lang.org/assets/papers/concurrent-frp.pdf)  
