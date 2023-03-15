@@ -1,5 +1,5 @@
-# Awesome Engineering White Papers
-An Awesome List of Engineering White Papers  
+# Data & Systems Engineering White Papers
+These are some of the better white papers I've come across. If you are new to reading white papers, I highly recommend reading [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf).
 
 ## Data
 [Cassandra - A Decentralized Structured Storage System](http://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)  
