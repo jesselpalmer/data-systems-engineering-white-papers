@@ -23,10 +23,3 @@ Storage for Interactive Services](https://pdos.csail.mit.edu/archive/6.824-2012/
 [Websearch for a Planet: The Google Cluster Architecture](http://www.eecs.harvard.edu/~dbrooks/cs246-fall2004/google.pdf)   
 [ZooKeeper: Wait-free coordination for Internet-scale systems](usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)  
 [Thrift: Scalable Cross-Language Services Implementation](http://thrift.apache.org/static/files/thrift-20070401.pdf)  
-
-## Languages
-[Elm: Concurrent FRP for Functional GUIs](https://elm-lang.org/assets/papers/concurrent-frp.pdf)  
-[Regularized Programming with the BOSQUE Language](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/beyond_structured_report_v2.pdf)   
-
-## Frameworks
-[Fiz: A Component Framework for Web Applications](https://web.stanford.edu/~ouster/cgi-bin/papers/fiz.pdf)  
